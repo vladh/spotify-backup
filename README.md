@@ -13,3 +13,7 @@ Adding `--format=json` will give you a JSON dump with everything that the script
 ## Acknowledgements
 
 Original by [caseychu](https://github.com/caseychu) with improvements by [vladh](https://github.com/vladh).
+
+Improvements:
+* Add support for collaborative playlist and playlist folders.
+* Prevent crashes.
